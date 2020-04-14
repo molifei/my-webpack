@@ -77,37 +77,3 @@ webpack 前端多页项目工程，适用于展示型站点，比如官网。
     <% } %>
   </body>
   ```
-
-## Usage
-
-### Install
-
-`git clone git@github.com:monine/webpack-multi-page.git`
-
-or
-
-`git clone https://github.com/Monine/webpack-multi-page.git`
-
-or
-
-[download](https://codeload.github.com/Monine/webpack-multi-page/zip/master)
-
-### Build Setup
-
-``` base
-# install dependencies
-  npm install
-
-# serve with hot reload at localhost:8080
-  npm run dev
-
-# build for testing without minification
-  npm run testing
-
-# build for production with minification
-  npm run build
-```
-
-## LICENSE
-
-MIT
