@@ -28,7 +28,7 @@
     "underscore-template-loader": "^0.8.0",
     "url-loader": "^0.5.9",
     "webpack": "^2.6.1",
-    "webpack-dev-server": "^2.5.1",
+    "webpack-dev-server": "^3.1.11",
     "webpack-merge": "^4.1.0"
   },
   "dependencies": {
